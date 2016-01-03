@@ -1,2 +1,2 @@
-This repository made for develop site https://torchwood.ml/
+This repository made for developing site https://torchwood.ml/
 
